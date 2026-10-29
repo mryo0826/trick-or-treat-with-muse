@@ -1,0 +1,18 @@
+# NOTICE — scope of the license
+
+The MIT License in `LICENSE` applies only to material original to this
+project: the source code, the lyrics, and the musical composition and
+arrangement (© 2026 mryo0826).
+
+It does **not** cover:
+
+- **The avatar imagery.** The performer appearing in the video is Muse's
+  avatar; the footage and imagery of that avatar are Meta's intellectual
+  property and are not licensed here. (The captured footage files are not
+  included in this repository at all.)
+- **Fonts.** `assets/fonts/` contains Mochiy Pop One and M PLUS Rounded 1c,
+  licensed under the SIL Open Font License 1.1 (license texts included
+  alongside the fonts).
+- **The singing voice.** The vocals were generated with Fish Audio's
+  `s2.1-pro-free` model and the generic library voice "Akari". The audio is
+  AI-generated; please keep that disclosure when sharing the video.
